@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-background: #ccc;
+font-size: 12px;
 }
 
 #tasks.completed {
